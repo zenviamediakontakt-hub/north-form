@@ -10,7 +10,7 @@ Created as a portfolio project with a focus on typography, asymmetric layouts, a
 
 ## Preview
 
-![NORTH/FORM — website preview](assets/preview.png)
+![NORTH/FORM — website preview](assets/preview.avif)
 
 ## About the project
 
